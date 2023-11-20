@@ -12,9 +12,15 @@
 let allMusic = [
   {
     name: "Stereo Hearts",
-    artist: "Decaydance & Ramen",
+    artist: "Gym Class Heroes - Adam Levine",
     img: "music-1",
     src: "music-1"
+  },
+  {
+    name: "Sunflower",
+    artist: "Post Malone - Swae Lee",
+    img: "music-2",
+    src: "music-2"
   },
   // like this paste it and remember to give comma after ending of this bracket }
   // {
