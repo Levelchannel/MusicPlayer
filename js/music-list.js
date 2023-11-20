@@ -11,7 +11,7 @@
 
 let allMusic = [
   {
-    name: "Harley Bird - Home",
+    name: "Stereo Hearts",
     artist: "Decaydance & Ramen",
     img: "music-1",
     src: "music-1"
