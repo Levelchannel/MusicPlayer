@@ -17,8 +17,8 @@ let allMusic = [
     src: "music-1"
   },
   {
-    name: "Sunflower",
-    artist: "Post Malone & Swae Lee",
+    name: "แก้มน้องนางนั้นเเดงกว่าใคร",
+    artist: "สาโรจน์ ยอดยิ่ง",
     img: "music-2",
     src: "music-2"
   },
