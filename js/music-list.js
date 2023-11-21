@@ -11,8 +11,8 @@
 
 let allMusic = [
   {
-    name: "Stereo Hearts",
-    artist: "Gym Class Heroes",
+    name: "แม่เสือสาว",
+    artist: "ชีวิน โกมารทัต",
     img: "music-1",
     src: "music-1"
   },
