@@ -12,19 +12,19 @@
 let allMusic = [
   {
     name: "แม่เสือสาว",
-    artist: "ชีวิน โกมารทัต",
+    artist: "คณะขวัญใจ",
     img: "music-1",
     src: "music-1"
   },
   {
     name: "แก้มน้องนางนั้นเเดงกว่าใคร",
-    artist: "สาโรจน์ ยอดยิ่ง",
+    artist: "เขียนไขและวานิช",
     img: "music-2",
     src: "music-2"
   },
   {
-    name: "Beauz & Jvna - Crazy",
-    artist: "Beauz & Jvna",
+    name: "ภาพฝันในจักรวาล",
+    artist: "เขียนไขและวานิช",
     img: "music-3",
     src: "music-3"
   },
