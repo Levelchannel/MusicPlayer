@@ -11,14 +11,14 @@
 
 let allMusic = [
   {
-    name: "Harley Bird - Home",
-    artist: "Jordan Schor",
+    name: "Stereo Hearts",
+    artist: "Gym Class Heroes",
     img: "music-1",
     src: "music-1"
   },
   {
-    name: "Ikson Anywhere – Ikson",
-    artist: "Audio Library",
+    name: "Sunflower",
+    artist: "Post Malone & Swae Lee",
     img: "music-2",
     src: "music-2"
   },
