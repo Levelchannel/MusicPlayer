@@ -12,37 +12,37 @@
 let allMusic = [
   {
     name: "แม่เสือสาว",
-    artist: "คณะขวัญใจ",
+    artist: "เครดิต คณะขวัญใจ",
     img: "music-1",
     src: "music-1"
   },
   {
     name: "แก้มน้องนางนั้นเเดงกว่าใคร",
-    artist: "เขียนไขและวานิช",
+    artist: "เครดิต เขียนไขและวานิช",
     img: "music-2",
     src: "music-2"
   },
   {
     name: "ภาพฝันในจักรวาล",
-    artist: "เขียนไขและวานิช",
+    artist: "เครดิต เขียนไขและวานิช",
     img: "music-3",
     src: "music-3"
   },
   {
     name: "นอกจากชื่อฉัน",
-    artist: "ActArt",
+    artist: "เครดิต ActArt",
     img: "music-4",
     src: "music-4"
   },
   {
     name: "นิทาน",
-    artist: "MUSKETEERS",
+    artist: "เครดิต MUSKETEERS",
     img: "music-5",
     src: "music-5"
   },
   {
-    name: "Lost Sky - Vision NCS",
-    artist: "NCS Release",
+    name: "แว่นใหญ่",
+    artist: "เครดิต WANYAi",
     img: "music-6",
     src: "music-6"
   },
